@@ -43,5 +43,8 @@
 
 🎤 Occasionally read books.
 
-
-![GitHub Snake Animation](https://raw.githubusercontent.com/Laxmikant02/Laxmikant02/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laxmikant02/Laxmikant02/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laxmikant02/Laxmikant02/output/github-snake-light.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Laxmikant02/Laxmikant02/output/github-snake.svg">
+</picture>
