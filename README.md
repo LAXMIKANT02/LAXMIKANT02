@@ -21,6 +21,8 @@
 **📈 GitHub Stats**
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LAXMIKANT02&show_icons=true&theme=dark&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LAXMIKANT02&theme=dark" width="48%" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAXMIKANT02&layout=compact&theme=dark" width="40%" /> </div>
 
+
+
 **🌎 Connect with Me**
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=appveyor)](https://your-portfolio-link)
