@@ -12,10 +12,6 @@
     <p>🚀 Working on <b>dynamic web applications</b> and improving my <b>server-side development skills</b>.</p>  
   </div>
 
-  <div>
-    <img src="https://media1.giphy.com/media/MD0svLSDeudszrNrp0/100.webp?cid=790b7611d4tt3eh88k5e7bxn03u61mi9e6gwyxdede7si9ek&ep=v1_gifs_search&rid=100.webp&ct=g" width="550">
-  </div>
-
 </div>
 
 **📈 GitHub Stats**
