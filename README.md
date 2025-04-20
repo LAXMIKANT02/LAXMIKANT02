@@ -25,7 +25,9 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=appveyor)](https://your-portfolio-link)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/laxmikant-dadagi-b559b332a)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dadagi_huduga_02)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:laxmikantdadagi@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:laxmikantdadagi@gmail.com)  
+
+
 
 
 **🏆 Achievements & Certifications:**
