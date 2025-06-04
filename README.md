@@ -32,11 +32,7 @@
 
 **🏆 Achievements & Certifications:**
 ✨ Completed: Raise Digital (Web development project completion) 
-🚀 Hackathon Winner: [Event Name]
-🎯 Top Contributor: [Project/Open Source Repo Name]
 
-🎨 Fun Facts About Me
-🎮 Love playing **FREE_FIRE**
 
 💡 A huge fan of clean and minimalistic UI/UX
 
