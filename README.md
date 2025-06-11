@@ -1,26 +1,57 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">  
-  <div>
-    <h1>🚀 Hi there! I'm Laxmikant</h1>
-    <h3>Full Stack Developer | Open Source Contributor | Tech Enthusiast</h3>
-    <p>🌱 Passionate about crafting scalable web applications, contributing to open-source projects, and continuously learning new technologies.</p>
-    <p>🔭 Currently working on <b>Personal J.A.R.V.I.S AI (Named:IGRIS)</b></p>
-    <p>💡 I love <b>solving problems</b> and turning ideas into <b>real-world applications</b>.</p>
-    <p>📖 Exploring <b>Technology</b> to deepen my expertise.</p>
-    <p>👨‍💻 I specialize in <b>HTML, CSS, and JavaScript</b>, building responsive and interactive web applications.</p>
-    <p>🔍 Currently exploring <b>backend development</b> with <b>Django (Python), Laravel (PHP), and MySQL</b> to become a <b>full-stack developer</b>.</p>  
-    <p>💡 Passionate about clean code, efficient design, and seamless user experiences.</p>
-    <p>🚀 Working on <b>dynamic web applications</b> and improving my <b>server-side development skills</b>.</p>  
-  </div>
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LAXMIKANT02" alt="Visitor Badge" />
+</p>
 
+<h1 align="center">🚀 Hi there! I'm Laxmikant S.</h1>
+<h3 align="center">Full Stack Developer | Open-Source Contributor | Tech Enthusiast</h3>
+
+---
+
+## 👋 About Me
+
+🌱 Passionate about crafting scalable web applications, contributing to open-source projects, and continuously learning new technologies.  
+🔭 Currently working on **Personal J.A.R.V.I.S AI (Named: ATOM)**  
+💡 I enjoy solving real-world problems and turning ideas into impactful applications.  
+📖 Exploring emerging technologies to deepen my expertise.  
+👨‍💻 Skilled in **HTML, CSS, JavaScript** for building responsive and interactive web experiences.  
+🔍 Strengthening backend development with **Django (Python)**, **Laravel (PHP)**, and **MySQL** to become a full-stack expert.  
+🎯 Devoted to clean code, efficient architecture, and user-friendly design.
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LAXMIKANT02&show_icons=true&theme=dark&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAXMIKANT02&layout=compact&theme=dark" width="40%" />
 </div>
 
-**📈 GitHub Stats**
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LAXMIKANT02&show_icons=true&theme=dark&count_private=true" width="48%" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAXMIKANT02&layout=compact&theme=dark" width="40%" /> </div>
+---
 
+## 🔥 GitHub Streak
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LAXMIKANT02&theme=dark&hide_border=false" width="60%"/>
+</div>
 
-**🌎 Connect with Me**
+---
+
+## 🌎 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=appveyor)](https://your-portfolio-link)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/laxmikant-dadagi-b559b332a)
@@ -28,18 +59,49 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:laxmikantdadagi@gmail.com)  
 
 
+---
 
+## 💼 Featured Projects
 
-**🏆 Achievements & Certifications:**
-✨ Completed: Raise Digital (Web development project completion) 
+- 🔧 [Smart Emergency Response Locator (SERL)](https://github.com/LAXMIKANT02/SERL)  
+  `→` Django-powered SOS and responder platform with geolocation and dynamic user roles.
 
+- 📋 [Task Manager](https://github.com/LAXMIKANT02/Task-Manager)  
+  `→` Laravel-based task tracking system with admin/user roles, AJAX updates, and email notifications via Mailtrap.
 
-💡 A huge fan of clean and minimalistic UI/UX
+- 🧠 [AI Fitness Posture Checker](#) *(Coming Soon)*  
+  `→` AI-based application that guides and corrects user posture using webcam vision models.
 
-🎤 Occasionally read books.
+- 🌐 [Personal Portfolio](https://your-portfolio-link)  
+  `→` Web showcase of my resume, projects, blog, and contact information.
+
+---
+
+## 🎯 2025 Learning Goals
+
+- ✅ Publish research paper on hotel booking using Django  
+- 🧠 Deepen knowledge in AI (CV, NLP) and TensorFlow  
+- 📱 Build & launch a responsive MERN stack project  
+- 🕹 Learn game development with JavaScript and Phaser.js  
+- 🔧 Improve DevOps skills (Docker, GitHub Actions)
+
+---
+
+## 🐍 GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laxmikant02/Laxmikant02/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laxmikant02/Laxmikant02/output/github-snake-light.svg">
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Laxmikant02/Laxmikant02/output/github-snake.svg">
 </picture>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- ✨ Successfully completed **Web Development** project at *Raise Digital*  
+- 📜 Working toward full-stack and AI certifications  
+- 🎨 Fan of minimalistic UI/UX  
+- 📖 Occasional bookworm, always learning
+
+---
