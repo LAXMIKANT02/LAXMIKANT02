@@ -97,11 +97,20 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements 
 
 - ✨ Successfully completed **Web Development** project at *Raise Digital*  
 - 📜 Working toward full-stack and AI certifications  
+
+  
+## 🎯 Hobbies & Interests
+
 - 🎨 Fan of minimalistic UI/UX  
-- 📖 Occasional bookworm, always learning
+- 📺 Binge-watching anime (Certified Anime Freak™ 😄)
+- 🕹️ Casual gamer — love strategy and story-based games
+- 📚 Reading tech blogs and sci-fi novels
+- 📖 Occasional bookworm
+- 🎧 Lo-fi music + night coding = 🧠🪄
+
 
 ---
