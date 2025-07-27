@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LAXMIKANT02" alt="Visitor Badge" />
 </p>
 
-<h1 align="center">🚀 Hi there! I'm Laxmikant S.</h1>
+<h1 align="center">🚀 Hi there!! I'm Laxmikant</h1>
 <h3 align="center">Full Stack Developer | Open-Source Contributor | Tech Enthusiast</h3>
 
 ---
@@ -13,7 +13,7 @@
 🔭 Currently working on **Personal J.A.R.V.I.S AI (Named: ATOM)**  
 💡 I enjoy solving real-world problems and turning ideas into impactful applications.  
 📖 Exploring emerging technologies to deepen my expertise.  
-👨‍💻 Skilled in **HTML, CSS, JavaScript** for building responsive and interactive web experiences.  
+👨‍💻 Skilled in **HTML, CSS, Bootstrap, JavaScript** for building responsive and interactive web experiences.  
 🔍 Strengthening backend development with **Django (Python)**, **Laravel (PHP)**, and **MySQL** to become a full-stack expert.  
 🎯 Devoted to clean code, efficient architecture, and user-friendly design.
 
@@ -79,7 +79,7 @@
 
 ## 🎯 2025 Learning Goals
 
-- ✅ Publish research paper on hotel booking using Django  
+- ✅ Publish research paper on projects developed
 - 🧠 Deepen knowledge in AI (CV, NLP) and TensorFlow  
 - 📱 Build & launch a responsive MERN stack project  
 - 🕹 Learn game development with JavaScript and Phaser.js  
