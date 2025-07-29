@@ -64,7 +64,7 @@
 ## 💼 Featured Projects
 
 - 🔧 [Smart Emergency Response Locator (SERL)](https://github.com/LAXMIKANT02/SERL)  
-  `→` Django-powered SOS and responder platform with geolocation and dynamic user roles.
+  `→` Laravel-based SOS and responder platform with geolocation and dynamic user roles.
 
 - 📋 [Task Manager](https://github.com/LAXMIKANT02/Task-Manager)  
   `→` Laravel-based task tracking system with admin/user roles, AJAX updates, and email notifications via Mailtrap.
@@ -72,7 +72,7 @@
 - 🧠 [AI Fitness Posture Checker](#) *(Coming Soon)*  
   `→` AI-based application that guides and corrects user posture using webcam vision models.
 
-- 🌐 [Personal Portfolio](https://your-portfolio-link)  
+- 🌐 [Personal Portfolio](https://your-portfolio-link) *(coming soon)*
   `→` Web showcase of my resume, projects, blog, and contact information.
 
 ---
