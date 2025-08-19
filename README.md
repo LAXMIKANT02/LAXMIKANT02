@@ -10,7 +10,15 @@
 ## 👋 About Me
 
 🌱 Passionate about crafting scalable web applications, contributing to open-source projects, and continuously learning new technologies.  
-🔭 Currently working on **Personal J.A.R.V.I.S AI (Named: ATOM)**  
+
+🔭 Currently working on :
+
+- **Machine Learning Internship under SkillCraft Technology**
+
+- **Full Stack Development Internship under Cognifyz**
+
+- **Personal J.A.R.V.I.S AI (Named: ATOM)**  
+
 💡 I enjoy solving real-world problems and turning ideas into impactful applications.  
 📖 Exploring emerging technologies to deepen my expertise.  
 👨‍💻 Skilled in **HTML, CSS, Bootstrap, JavaScript** for building responsive and interactive web experiences.  
