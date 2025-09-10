@@ -12,8 +12,8 @@
 🌱 Passionate about crafting scalable web applications, contributing to open-source projects, and continuously learning new technologies.  
 
 🔭 Currently working on :
-- **Portfolio website**
-- **Personal J.A.R.V.I.S AI (Named: ATOM)**  
+- **Personal J.A.R.V.I.S AI (Named: ATOM)**
+- **Software intern @Sumeruglobals**
 
 💡 I enjoy solving real-world problems and turning ideas into impactful applications.  
 📖 Exploring emerging technologies to deepen my expertise.  
