@@ -67,16 +67,13 @@
 
 ## 💼 Featured Projects
 
-- 🔧 [Smart Emergency Response Locator (SERL)](https://github.com/LAXMIKANT02/SERL)  
+- 🔧 [Smart Emergency Response Locator (SERL)](https://www.linkedin.com/posts/laxmikant-dadagi-b559b332a_laravel-fullstackdevelopment-internship-activity-7367589730076565506-BXnW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMV4bEBsoQL1QcE_npgfKASmruxcn7VK8U)  
   `→` Laravel-based SOS and responder platform with geolocation and dynamic user roles.
-
-- 📋 [Task Manager](https://github.com/LAXMIKANT02/Task-Manager)  
-  `→` Laravel-based task tracking system with admin/user roles, AJAX updates, and email notifications via Mailtrap.
 
 - 🧠 [AI Fitness Posture Checker](#) *(Coming Soon)*  
   `→` AI-based application that guides and corrects user posture using webcam vision models.
 
-- 🌐 [Personal Portfolio](https://your-portfolio-link) *(coming soon)*
+- 🌐 [Personal Portfolio](https://zingy-moonbeam-017928.netlify.app/)   
   `→` Web showcase of my resume, projects, blog, and contact information.
 
 ---
