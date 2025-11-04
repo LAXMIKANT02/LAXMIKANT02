@@ -11,10 +11,10 @@
 
 🌱 Passionate about crafting scalable web applications, contributing to open-source projects, and continuously learning new technologies.  
 
-🔭 Currently working on :
-- **Personal J.A.R.V.I.S AI (Named: ATOM)**
-- **Software intern @Sumeruglobals**
-
+🔭 Currently learning :
+- JAVA
+- ML
+  
 💡 I enjoy solving real-world problems and turning ideas into impactful applications.  
 📖 Exploring emerging technologies to deepen my expertise.  
 👨‍💻 Skilled in **HTML, CSS, Bootstrap, JavaScript** for building responsive and interactive web experiences.  
@@ -57,7 +57,7 @@
 
 ## 🌎 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=appveyor)](https://your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=appveyor)](https://zingy-moonbeam-017928.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/laxmikant-dadagi-b559b332a)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dadagi_huduga_02)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:laxmikantdadagi@gmail.com)  
@@ -70,7 +70,7 @@
 - 🔧 [Smart Emergency Response Locator (SERL)](https://www.linkedin.com/posts/laxmikant-dadagi-b559b332a_laravel-fullstackdevelopment-internship-activity-7367589730076565506-BXnW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMV4bEBsoQL1QcE_npgfKASmruxcn7VK8U)  
   `→` Laravel-based SOS and responder platform with geolocation and dynamic user roles.
 
-- 🧠 [AI Fitness Posture Checker](#) *(Coming Soon)*  
+- 🧠 [AI Fitness Posture Checker](#)https://www.linkedin.com/posts/laxmikant-s-b559b332a_ai-machinelearning-healthtech-activity-7377202769595625472-3V_t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMV4bEBsoQL1QcE_npgfKASmruxcn7VK8U  
   `→` AI-based application that guides and corrects user posture using webcam vision models.
 
 - 🌐 [Personal Portfolio](https://zingy-moonbeam-017928.netlify.app/)   
