@@ -70,7 +70,7 @@
 - 🔧 [Smart Emergency Response Locator (SERL)](https://www.linkedin.com/posts/laxmikant-dadagi-b559b332a_laravel-fullstackdevelopment-internship-activity-7367589730076565506-BXnW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMV4bEBsoQL1QcE_npgfKASmruxcn7VK8U)  
   `→` Laravel-based SOS and responder platform with geolocation and dynamic user roles.
 
-- 🧠 [AI Fitness Posture Checker](#)https://www.linkedin.com/posts/laxmikant-s-b559b332a_ai-machinelearning-healthtech-activity-7377202769595625472-3V_t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMV4bEBsoQL1QcE_npgfKASmruxcn7VK8U  
+- 🧠 [AI Fitness Posture Checker](#)(https://www.linkedin.com/posts/laxmikant-s-b559b332a_ai-machinelearning-healthtech-activity-7377202769595625472-3V_t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMV4bEBsoQL1QcE_npgfKASmruxcn7VK8U)
   `→` AI-based application that guides and corrects user posture using webcam vision models.
 
 - 🌐 [Personal Portfolio](https://zingy-moonbeam-017928.netlify.app/)   
