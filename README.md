@@ -11,9 +11,9 @@
 
 🌱 Passionate about crafting scalable web applications, contributing to open-source projects, and continuously learning new technologies.  
 
-🔭 Currently learning :
+🔭 Currently learning and working on :
 - JAVA
-- ML
+- MERN Stack
   
 💡 I enjoy solving real-world problems and turning ideas into impactful applications.  
 📖 Exploring emerging technologies to deepen my expertise.  
@@ -84,13 +84,11 @@
 
 ---
 
-## 🎯 2025 Learning Goals
+## 🎯 2026 Learning Goals
 
-- ✅ Publish research paper on projects developed
+
 - 🧠 Deepen knowledge in AI (CV, NLP) and TensorFlow  
-- 📱 Build & launch a responsive MERN stack project  
-- 🕹 Learn game development with JavaScript and Phaser.js  
-- 🔧 Improve DevOps skills (Docker, GitHub Actions)
+- 📱 Build & launch responsive MERN stack projects  
 
 ---
 
@@ -114,8 +112,6 @@
 
 - 🎨 Fan of minimalistic UI/UX  
 - 📺 Binge-watching anime (Certified Anime Freak™ 😄)
-- 🕹️ Casual gamer — love strategy and story-based games
-- 📚 Reading tech blogs and sci-fi novels
 - 📖 Occasional bookworm
 - 🎧 Lo-fi music + night coding = 🧠🪄
 
