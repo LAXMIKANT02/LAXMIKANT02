@@ -14,10 +14,11 @@
 🔭 Currently learning and working on :
 - JAVA
 - MERN Stack
+- Linux
   
 💡 I enjoy solving real-world problems and turning ideas into impactful applications.  
 📖 Exploring emerging technologies to deepen my expertise.  
-👨‍💻 Skilled in **HTML, CSS, Bootstrap, JavaScript** for building responsive and interactive web experiences.  
+👨‍💻 Skilled in **HTML, CSS, Bootstrap, JavaScript, MERN** for building responsive and interactive web experiences.  
 🔍 Strengthening backend development with **Django (Python)**, **Laravel (PHP)**, and **MySQL** to become a full-stack expert.  
 🎯 Devoted to clean code, efficient architecture, and user-friendly design.
 
@@ -79,7 +80,7 @@
   
   `→` AI-based application that guides and corrects user posture using webcam vision models.
 
-- 🌐 [Personal Portfolio](https://zingy-moonbeam-017928.netlify.app/)   
+- 🌐 [Personal Portfolio](https://laxmikant-s-portfolio.netlify.app/)   
   `→` Web showcase of my resume, projects, blog, and contact information.
 
 ---
@@ -104,8 +105,9 @@
 
 ## 🏆 Achievements 
 
-- ✨ Successfully completed **Web Development** project at *Raise Digital*  
-- 📜 Working toward full-stack and AI certifications  
+-  Completed Nptel **Programming in Java** certification  
+-  Completed 3+ internships
+-  Built Handson Projects
 
   
 ## 🎯 Hobbies & Interests
