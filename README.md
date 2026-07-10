@@ -1,121 +1,240 @@
+
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LAXMIKANT02" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LAXMIKANT02.LAXMIKANT02" alt="Visitor Badge"/>
 </p>
 
-<h1 align="center">🚀 Hi there!! I'm Laxmikant</h1>
-<h3 align="center">Full Stack Developer | Open-Source Contributor | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Laxmikant</h1>
+
+<h3 align="center">
+Full Stack Developer • Java Enthusiast • Linux Learner • AI Explorer
+</h3>
+
+<p align="center">
+I'm passionate about building scalable applications, solving challenging problems, and continuously learning new technologies.
+</p>
+
+<p align="center">
+<a href="https://laxmikant-s-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/laxmikant-dadagi-b559b332a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:laxmikantdadagi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 👋 About Me
+# 👨‍💻 About Me
 
-🌱 Passionate about crafting scalable web applications, contributing to open-source projects, and continuously learning new technologies.  
-
-🔭 Currently learning and working on :
-- JAVA
-- MERN Stack
-- Linux
-  
-💡 I enjoy solving real-world problems and turning ideas into impactful applications.  
-📖 Exploring emerging technologies to deepen my expertise.  
-👨‍💻 Skilled in **HTML, CSS, Bootstrap, JavaScript, MERN** for building responsive and interactive web experiences.  
-🔍 Strengthening backend development with **Django (Python)**, **Laravel (PHP)**, and **MySQL** to become a full-stack expert.  
-🎯 Devoted to clean code, efficient architecture, and user-friendly design.
+- 🎓 Computer Science Engineering Student
+- 💻 Passionate about Full Stack Development
+- 🚀 Currently focused on **Java**, **Data Structures & Algorithms**, **Linux**, **MERN Stack**, and **Backend Development**
+- 🌱 Learning Cloud & DevOps fundamentals
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🛠️ Love building real-world applications
+- 📚 Always learning something new
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Current Focus
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- 💻 Solving LeetCode regularly
+- ☕ Mastering Java & DSA
+- 🐧 Learning Linux & Shell Scripting
+- 🌐 Building Full Stack Applications
+- ☁️ Exploring Cloud & DevOps
+- 🤖 Working on AI-powered Projects
 
 ---
 
-## 📈 GitHub Stats
-
+# 🛠️ Tech Stack
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LAXMIKANT02&show_icons=true&theme=dark&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAXMIKANT02&layout=compact&theme=dark" width="40%" />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php,html,css,bash&perline=4" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite&perline=2" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel&perline=2" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&perline=3" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,linux,git,github&perline=3" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,latex,netlify,vercel,canva,canva&perline=3" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 📚 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=java,nodejs,react,docker,linux&perline=5" />
+
+</td>
+</tr>
+
+</table>
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 GitHub Statistics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LAXMIKANT02&theme=dark&hide_border=false" width="60%"/>
-</div>
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LAXMIKANT02&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🌎 Connect with Me
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAXMIKANT02&layout=compact&theme=tokyonight&hide_border=true"/>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=appveyor)](https://zingy-moonbeam-017928.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/laxmikant-dadagi-b559b332a)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dadagi_huduga_02)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:laxmikantdadagi@gmail.com)  
-
+</p>
 
 ---
 
-## 💼 Featured Projects
+# 🔥 GitHub Streak
 
-- 🔧 [Smart Emergency Response Locator (SERL)](https://www.linkedin.com/posts/laxmikant-dadagi-b559b332a_laravel-fullstackdevelopment-internship-activity-7367589730076565506-BXnW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMV4bEBsoQL1QcE_npgfKASmruxcn7VK8U)  
-  `→` Laravel-based SOS and responder platform with geolocation and dynamic user roles.
+<p align="center">
 
-- 🧠 [AI Fitness Posture Checker](https://www.linkedin.com/posts/laxmikant-s-b559b332a_ai-machinelearning-healthtech-activity-7377202769595625472-3V_t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMV4bEBsoQL1QcE_npgfKASmruxcn7VK8U)
-  
-  `→` AI-based application that guides and corrects user posture using webcam vision models.
+<img src="https://streak-stats.demolab.com?user=LAXMIKANT02&theme=tokyonight&hide_border=true"/>
 
-- 🌐 [Personal Portfolio](https://laxmikant-s-portfolio.netlify.app/)   
-  `→` Web showcase of my resume, projects, blog, and contact information.
+</p>
 
 ---
 
-## 🎯 2026 Learning Goals
+# 🏆 GitHub Trophies
 
+<p align="center">
 
-- 🧠 Deepen knowledge in AI (CV, NLP) and TensorFlow  
-- 📱 Build & launch responsive MERN stack projects  
+<img src="https://github-profile-trophy.vercel.app/?username=LAXMIKANT02&theme=tokyonight&margin-w=10&margin-h=10"/>
+
+</p>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LAXMIKANT02&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🛡️ AegisAI-X(🔄 Currently Working On)
+
+AI-powered Banking Security Operations Center (SOC) platform built with modern backend architecture, real-time telemetry, threat detection, and security analytics.
+
+---
+
+### 🤖 [AI Fitness Posture Checker](https://www.linkedin.com/posts/laxmikant-s-b559b332a_ai-machinelearning-healthtech-activity-7377202769595625472-3V_t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMV4bEBsoQL1QcE_npgfKASmruxcn7VK8U)
+
+Computer Vision project that detects and improves exercise posture using AI and webcam-based pose estimation.
+
+---
+
+### 🚑 [Smart Emergency Response Locator (SERL)](https://www.linkedin.com/posts/laxmikant-dadagi-b559b332a_laravel-fullstackdevelopment-internship-activity-7367589730076565506-BXnW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMV4bEBsoQL1QcE_npgfKASmruxcn7VK8U)
+
+Laravel-powered emergency response platform with dynamic user roles, SOS system, and geolocation support.
+
+---
+
+### 🌐 [Personal Portfolio](https://laxmikant-s-portfolio.netlify.app/)
+
+Modern developer portfolio showcasing projects, achievements, skills, certifications, and technical journey.
+
+---
+
+# 🏅 Achievements
+
+- 🏆 NPTEL Programming in Java Certified
+- 💼 Completed multiple internships in Full Stack Development & Machine Learning
+- 🚀 Built multiple Full Stack & AI Projects
+- 💻 Consistently practicing Data Structures & Algorithms
+- 🌱 Passionate about Open Source & Continuous Learning
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Java & DSA
+- ✅ Learn Spring Boot
+- ✅ Become proficient in Linux & DevOps
+- ✅ Build Production-Ready Applications
+- ✅ Contribute to Open Source
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laxmikant02/Laxmikant02/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laxmikant02/Laxmikant02/output/github-snake-light.svg">
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Laxmikant02/Laxmikant02/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LAXMIKANT02/LAXMIKANT02/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LAXMIKANT02/LAXMIKANT02/output/github-snake-light.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/LAXMIKANT02/LAXMIKANT02/output/github-snake.svg">
 </picture>
 
----
-
-## 🏆 Achievements 
-
--  Completed Nptel **Programming in Java** certification  
--  Completed 3+ internships
--  Built Handson Projects
-
-  
-## 🎯 Hobbies & Interests
-
-- 🎨 Fan of minimalistic UI/UX  
-- 📺 Binge-watching anime (Certified Anime Freak™ 😄)
-- 📖 Occasional bookworm
-- 🎧 Lo-fi music + night coding = 🧠🪄
-
+</p>
 
 ---
+
+<h3 align="center">
+
+"First, solve the problem. Then, write the code."
+
+</h3>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
+
